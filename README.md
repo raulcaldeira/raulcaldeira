@@ -2,14 +2,14 @@
 <p align="center">
 <!-- <a href="https://instagram.com/byraulsantana"><img src="https://img.shields.io/badge/-@byraulsantana_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
 <!-- <a href="https://raulsantana.com.br"><img src="https://img.shields.io/badge/-raulsantana.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/devraul/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/raulcaldeira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!-- <a href="ti.raul77@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-ti.raul77@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
 
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Desde que me lembro, estou apaixonado por computadores e tecnologia. Minha jornada começou quando eu tinha apenas 4 anos de idade e tive meu primeiro contato com o mágico mundo da informática. Esse fascínio me acompanhou ao longo dos anos, até que em 2019, decidi levar minha paixão a um novo patamar ao ingressar em um curso técnico de informática no SENAC.
+- 👨🏻‍💻 &nbsp; Desde que me lembro, estou apaixonado por computadores e tecnologia. Minha jornada começou deade a minha infância, quando tive meu primeiro contato com o mágico mundo da informática. Esse fascínio me acompanhou ao longo dos anos, até que em 2019, decidi levar minha paixão a um novo patamar ao ingressar em um curso técnico de informática no SENAC.
 
 - 📚 Foi lá que tive meu primeiro gostinho da programação, e desde então, decidi trilhar o emocionante caminho do desenvolvimento de software. Com dedicação e determinação, avancei na minha jornada e agora sou um dev graduado em análise e desenvolvimento de sistemas com uma paixão ardente por resolver problemas e criar soluções inovadoras através do código.
 
