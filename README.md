@@ -9,7 +9,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Desde que me lembro, estou apaixonado por computadores e tecnologia. Minha jornada começou deade a minha infância, quando tive meu primeiro contato com o mágico mundo da informática. Esse fascínio me acompanhou ao longo dos anos, até que em 2019, decidi levar minha paixão a um novo patamar ao ingressar em um curso técnico de informática no SENAC.
+- 👨🏻‍💻 &nbsp; Desde que me lembro, estou apaixonado por computadores e tecnologia. Minha jornada começou deade a minha infância quando tive meu primeiro contato com o mágico mundo da informática. Esse fascínio me acompanhou ao longo dos anos, até que em 2019, decidi levar minha paixão a um novo patamar ao ingressar em um curso técnico de informática no SENAC.
 
 - 📚 Foi lá que tive meu primeiro gostinho da programação, e desde então, decidi trilhar o emocionante caminho do desenvolvimento de software. Com dedicação e determinação, avancei na minha jornada e agora sou um dev graduado em análise e desenvolvimento de sistemas com uma paixão ardente por resolver problemas e criar soluções inovadoras através do código.
 
